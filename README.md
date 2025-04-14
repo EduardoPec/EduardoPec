@@ -24,9 +24,8 @@ estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando nov
 </div><br/> 
 
 <br/>[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardope%C3%A7anhasantos/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoPec)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudupecanha_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://eduardopecanha05@gmail.com)
+
 
 💡 Apaixonado por tecnologia, transformando ideias em soluções reais, sempre melhorando a cada dia!
 
