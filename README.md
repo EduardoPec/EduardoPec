@@ -18,7 +18,7 @@
   <img align="center" alt="java" scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, Transformando ideias em soluções reais.
+Apaixonado por tecnologia, transformando ideias em soluções reais.
 
 ## Útimos projetos:
 - [Gerenciador de Estoque e Vendas](https://github.com/EduardoPec/Gerenciador-de-Estoque-e-Vendas)<br/>
