@@ -37,5 +37,7 @@ estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando nov
 
 ### 📌 Útimos projetos:
 - [Gerenciador de Estoque e Vendas](https://github.com/EduardoPec/Gerenciador-de-Estoque-e-Vendas)<br/>
+- [Calculador de IMC](https://github.com/EduardoPec/calculadorDeImc)<br/>
+- [Portifólio](https://github.com/EduardoPec/portif-lioPessoal)<br/>
 
 
