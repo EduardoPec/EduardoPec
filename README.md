@@ -7,6 +7,7 @@ Olá 🖐🏼! Me chamo Eduardo Peçanha, tenho 19 anos e sou de Salvador, Bahia
 estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
 
 ![Eduardo Peçanha GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
