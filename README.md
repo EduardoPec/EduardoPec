@@ -26,7 +26,7 @@ estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando nov
       
 </div><br/> 
 
-<br/>[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardope%C3%A7anhasantos/)
+<br/>[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopecanhasantos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudupecanha_/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/EduardoPec)
 
@@ -38,5 +38,11 @@ estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando nov
 ### 📌 Útimos projetos:
 - [Gerenciador de Estoque e Vendas](https://github.com/EduardoPec/Gerenciador-de-Estoque-e-Vendas)<br/>
 - [Calculador de IMC](https://github.com/EduardoPec/calculadorDeImc)<br/>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoPec/EduardoPec/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoPec/EduardoPec/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduardoPec/EduardoPec/output/github-contribution-grid-snake.svg">
+</picture>
 
 
