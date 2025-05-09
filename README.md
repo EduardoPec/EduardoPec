@@ -9,8 +9,8 @@ estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando nov
 ![Eduardo Peçanha GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
+## Tecnologias e Ferramentas
 
 ### 📌 Linguagens
 <div style="display: inline_block">
