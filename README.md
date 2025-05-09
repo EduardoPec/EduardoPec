@@ -1,49 +1,57 @@
-
 # 👨🏻‍💻 Eduardo Peçanha 
-
 **`Desenvolvedor Full-Stack`**
 
-Olá 🖐🏼! Me chamo Eduardo Peçanha, tenho 19 anos e sou de Salvador, Bahia. Sou apaixonado por tecnologia e estou cursando Engenharia de Software na Universidade Católica do Salvador (UCSAL),
-estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
+Olá 🖐🏼! Me chamo Eduardo Peçanha, tenho 19 anos e sou de Salvador, Bahia. Sou apaixonado por tecnologia e estou cursando Engenharia de Software na Universidade Católica do Salvador (UCSAL). Estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
 
-![Eduardo Peçanha GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec)](https://github.com/anuraghazra/github-readme-stats) 
+<div style="display: flex; gap: 16px; justify-content: center; margin: 20px 0;">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec&layout=compact&theme=dracula&hide_border=true&hide=procfile" />
+</div>
 
 ---
-## Tecnologias e Ferramentas
+## 🛠 Stack Principal
 
-### 📌 Linguagens
-<div style="display: inline_block">
-  <img align="center" alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="javascript" height="40" width="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0;">
 
-### 🗄️ Banco de Dados
-  <img align="center" alt="postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="sqlite" height="40" width="50" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+### **Frontend**
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+</div>
 
-### 🛠️ Ferramentas e IDEs
-  <img align="center" alt="vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="eclipse" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-      
-</div><br/> 
+### **Backend**
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/>
+</div>
 
-<br/>[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopecanhasantos/)
+### **Banco de Dados**
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+</div>
+
+### **Ferramentas**
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" title="Eclipse"/>
+</div>
+</div>
+
+---
+## 📩 Contatos
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardopecanha05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardopecanhasantos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dudupecanha_/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/EduardoPec)
 
-
-💡 Apaixonado por tecnologia, transformando ideias em soluções reais, sempre melhorando a cada dia!
+<br><p align="center" style="margin-top: 20px;">
+  💡 Apaixonado por tecnologia, transformando ideias em soluções reais, sempre melhorando a cada dia!
+</p>
 
 ---
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduardoPec/EduardoPec/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoPec/EduardoPec/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduardoPec/EduardoPec/output/github-contribution-grid-snake.svg">
-</picture>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EduardoPec/EduardoPec/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
