@@ -7,7 +7,7 @@ Olá 🖐🏼! Me chamo Eduardo Peçanha, tenho 19 anos e sou de Salvador, Bahia
 estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
 
 ![Eduardo Peçanha GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 ## Tecnologias e Ferramentas
@@ -24,7 +24,10 @@ estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando nov
   <img align="center" alt="postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
   <img align="center" alt="sqlite" height="40" width="50" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          
+
+### 🛠️ Ferramentas e IDEs
+  <img align="center" alt="vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="eclipse" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
       
 </div><br/> 
 
