@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Eduardo Peçanha 
 **`Desenvolvedor Full-Stack`**
 
-Olá 🖐🏼! Me chamo Eduardo Peçanha, tenho 19 anos e sou de Salvador, Bahia. Sou apaixonado por tecnologia e estou cursando Engenharia de Software na Universidade Católica do Salvador (UCSAL). Estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
+Olá 🖐🏼! Me chamo Eduardo Peçanha, tenho 20 anos e sou de Salvador, Bahia. Sou apaixonado por tecnologia e estou cursando Engenharia de Software na Universidade Católica do Salvador (UCSAL). Estou totalmente empenhado em aprender e evoluir a cada dia, sempre buscando novos desafios e oportunidades para crescer como desenvolvedor.
 
 <div style="display: flex; gap: 16px; justify-content: center; margin: 20px 0;">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
