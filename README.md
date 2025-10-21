@@ -1,9 +1,9 @@
 <h1 align="center">👨🏻‍💻 Eduardo Peçanha</h1>
-<h3 align="center">🚀 Desenvolvedor Backend | Full Stack em formação</h3>
+<h3 align="center"> Desenvolvedor Backend | Full Stack em formação</h3>
 
 <p align="center">
-  <i>💡 Transformando ideias em soluções reais, uma linha de código por vez.</i><br>
-  <b>📍 Salvador - BA | 🎓 Engenharia de Software (UCSAL)</b>
+  <i> Transformando ideias em soluções reais, uma linha de código por vez.</i><br>
+  <b> Salvador - BA | Engenharia de Software (UCSAL)</b>
 </p>
 
 ---
@@ -15,29 +15,29 @@
 
 ---
 
-## 🧠 Stack Principal
+## Stack Principal
 
 <div>
 
-### 🖥️ **Backend**
+### **Backend**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" title="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
 
-### ⚙️ **Frameworks & ORM**
+### **Frameworks & ORM**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" title="Spring Boot"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="55" title="Hibernate / JPA"/>
 
-### 🗄️ **Banco de Dados**
+### **Banco de Dados**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
 
-### 🧩 **Frontend**
+### **Frontend**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
 
-### 🧰 **Ferramentas & IDEs**
+### **Ferramentas & IDEs**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="55" title="Eclipse"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" title="IntelliJ IDEA"/>
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 Estatísticas & Contribuições
+## Estatísticas & Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EduardoPec&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
@@ -54,7 +54,7 @@
 
 ---
 
-## 🏗️ Projetos em Destaque
+## Projetos em Destaque
 
 ### 🌿 **Workshop Spring Boot + JPA**
 Aplicação backend completa construída com **Spring Boot**, **JPA/Hibernate** e **MySQL**.  
@@ -78,8 +78,10 @@ Simula batalhas entre criaturas elementares, com sistema de turnos, atributos e 
 > 💬 Destaques: abstração, herança, polimorfismo e encapsulamento aplicados na prática.  
 🔗 [Acesse o repositório](https://github.com/EduardoPec/sistema-de-batalhas)
 
+---
+---
 
-## 📬 Contato
+<h2 align="center">🤝 Contatos </h2>
 
 <div align="center">
 
