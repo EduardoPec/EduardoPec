@@ -76,7 +76,7 @@ Demonstra **Spring Data MongoDB**, **DTOs**, **filtros com query params** e **bo
 Projeto baseado em Programação Orientada a Objetos, aplicando princípios **SOLID** e **Design Patterns**.  
 Simula batalhas entre criaturas elementares, com sistema de turnos, atributos e habilidades dinâmicas.  
 > 💬 Destaques: abstração, herança, polimorfismo e encapsulamento aplicados na prática.  
-🔗 [Acesse o repositório](https://github.com/EduardoPec/sistema-de-batalhas)
+🔗 [Acesse o repositório](https://github.com/EduardoPec/jogo-batalha)
 
 ---
 ---
