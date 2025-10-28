@@ -72,11 +72,12 @@ Demonstra **Spring Data MongoDB**, **DTOs**, **filtros com query params** e **bo
 
 ---
 
-### ⚔️ **Sistema de Batalhas (Java OOP)**
-Projeto baseado em Programação Orientada a Objetos, aplicando princípios **SOLID** e **Design Patterns**.  
-Simula batalhas entre criaturas elementares, com sistema de turnos, atributos e habilidades dinâmicas.  
-> 💬 Destaques: abstração, herança, polimorfismo e encapsulamento aplicados na prática.  
-🔗 [Acesse o repositório](https://github.com/EduardoPec/jogo-batalha)
+### 🦇 **Gotham Lock (Java / Spring Boot)**
+Aplicação full stack desenvolvida para as **Indústrias Wayne**, com foco em **controle de acesso** e **gestão de inventário interno**.  
+Implementa **autenticação e autorização** com **Spring Security**, **criptografia de senhas (BCrypt)** e perfis de usuário (`Admin`, `Gerente`, `Funcionário`).  
+> 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs, logs automáticos de acesso e frontend em dark mode inspirado no universo Batman.  
+🔗 [Acesse o repositório](https://github.com/EduardoPec/GothamLock)
+
 
 ---
 ---
