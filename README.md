@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoPec&theme=tokyonight&hide_border=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
@@ -56,6 +56,12 @@
 
 ## Projetos em Destaque
 
+### 🦇 **Gotham Lock (Java / Spring Boot)**
+Aplicação full stack desenvolvida para as **Indústrias Wayne**, com foco em **controle de acesso** e **gestão de inventário interno**.  
+Implementa **autenticação e autorização** com **Spring Security**, **criptografia de senhas (BCrypt)** e perfis de usuário (`Admin`, `Gerente`, `Funcionário`).  
+> 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs, logs automáticos de acesso e frontend em dark mode inspirado no universo Batman.  
+🔗 [Acesse o repositório](https://github.com/EduardoPec/GothamLock)
+
 ### 🌿 **Workshop Spring Boot + JPA**
 Aplicação backend completa construída com **Spring Boot**, **JPA/Hibernate** e **MySQL**.  
 Implementa operações **CRUD**, relacionamentos **OneToMany / ManyToOne**, **injeção de dependências** e **tratamento global de exceções**.  
@@ -69,15 +75,6 @@ API RESTful conectada ao **MongoDB**, com integração entre usuários, posts e 
 Demonstra **Spring Data MongoDB**, **DTOs**, **filtros com query params** e **boas práticas de camadas**.  
 > 💬 Destaques: consultas dinâmicas com parâmetros `@RequestParam`, encoding de URLs e tratamento de exceções.  
 🔗 [Acesse o repositório](https://github.com/EduardoPec/workshop-springboot-mongodb)
-
----
-
-### 🦇 **Gotham Lock (Java / Spring Boot)**
-Aplicação full stack desenvolvida para as **Indústrias Wayne**, com foco em **controle de acesso** e **gestão de inventário interno**.  
-Implementa **autenticação e autorização** com **Spring Security**, **criptografia de senhas (BCrypt)** e perfis de usuário (`Admin`, `Gerente`, `Funcionário`).  
-> 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs, logs automáticos de acesso e frontend em dark mode inspirado no universo Batman.  
-🔗 [Acesse o repositório](https://github.com/EduardoPec/GothamLock)
-
 
 ---
 ---
