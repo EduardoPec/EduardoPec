@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Eduardo Peçanha</h1>
-<h3 align="center"> Desenvolvedor Backend | Full Stack em formação</h3>
+<h3 align="center"> Desenvolvedor Backend | Full-Stack em formação</h3>
 
 <p align="center">
   <i> Transformando ideias em soluções reais</i><br>
