@@ -61,11 +61,21 @@ Implementa **autenticação e autorização** com **Spring Security**, **criptog
 > 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs, logs automáticos de acesso e frontend em dark mode inspirado no universo Batman.  
 🔗 [Acesse o repositório](https://github.com/EduardoPec/GothamLock)
 
+---
+
 ### 💜 **Desafio Técnico, Nubank (Java / Spring Boot)**
 AAPI backend desenvolvida como desafio técnico, com foco em modelagem de domínio, regras de negócio e boas práticas de **APIs REST**.
 Implementa o gerenciamento de clientes e contatos, utilizando Spring Boot, Spring Data JPA e PostgreSQL.  
 > 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs (request/response), validações com Bean Validation, tratamento global de exceções e regras de negócio customizadas (duplicidade e recurso não encontrado).  
 🔗 [Acesse o repositório](https://github.com/EduardoPec/desafio-backend-nubank)
+
+---
+
+### 🚨 **Sistema de Denúncias Públicas (Java / Spring Boot)**
+API REST desenvolvida para o **registro e gerenciamento de denúncias públicas**, permitindo o acompanhamento por meio de um **protocolo único**, com separação entre acesso público e administrativo.  
+O sistema segue **boas práticas de backend**, com arquitetura em camadas e foco em organização, validação e clareza das regras de negócio.
+> 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs (request/response), mapper dedicado, validação com Bean Validation, documentação com Swagger/OpenAPI, tratamento global de exceções e persistência com PostgreSQL.  
+🔗 [Acesse o repositório](https://github.com/EduardoPec/sistema-denuncias-api)
 
 ---
 
