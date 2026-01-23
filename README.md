@@ -2,7 +2,7 @@
 <h3 align="center"> Desenvolvedor Backend | Full Stack em formação</h3>
 
 <p align="center">
-  <i> Transformando ideias em soluções reais, uma linha de código por vez.</i><br>
+  <i> Transformando ideias em soluções reais</i><br>
   <b> Salvador - BA | Engenharia de Software (UCSAL)</b>
 </p>
 
@@ -61,11 +61,11 @@ Implementa **autenticação e autorização** com **Spring Security**, **criptog
 > 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs, logs automáticos de acesso e frontend em dark mode inspirado no universo Batman.  
 🔗 [Acesse o repositório](https://github.com/EduardoPec/GothamLock)
 
-### 🌿 **Workshop Spring Boot + JPA**
-Aplicação backend completa construída com **Spring Boot**, **JPA/Hibernate** e **MySQL**.  
-Implementa operações **CRUD**, relacionamentos **OneToMany / ManyToOne**, **injeção de dependências** e **tratamento global de exceções**.  
-> 💬 Projeto voltado para consolidar o domínio de APIs REST e persistência de dados com foco em arquitetura limpa.  
-🔗 [Acesse o repositório](https://github.com/EduardoPec/workshop-springboot3-jpa)
+### 💜 **Desafio Técnico, Nubank (Java / Spring Boot)**
+AAPI backend desenvolvida como desafio técnico, com foco em modelagem de domínio, regras de negócio e boas práticas de **APIs REST**.
+Implementa o gerenciamento de clientes e contatos, utilizando Spring Boot, Spring Data JPA e PostgreSQL.  
+> 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs (request/response), validações com Bean Validation, tratamento global de exceções e regras de negócio customizadas (duplicidade e recurso não encontrado).  
+🔗 [Acesse o repositório](https://github.com/EduardoPec/desafio-backend-nubank)
 
 ---
 
