@@ -55,6 +55,14 @@
 
 ## Projetos em Destaque
 
+### 🏥 **Clínica Médica API**
+API REST completa para gestão de clínica médica com autenticação via **JWT**, controle de acesso e regras de negócio complexas para agendamento de consultas.  
+Demonstra **Spring Boot**, **Spring Security**, **JPA**, **DTOs**, **validações customizadas (Strategy Pattern)** e **arquitetura em camadas**.  
+> 💬 Destaques: autenticação stateless com JWT, validações avançadas de agendamento, tratamento global de exceções e testes com MockMvc.  
+🔗 [Acesse o repositório](https://github.com/EduardoPec/clinica-medica-api)
+
+---
+
 ### 🦇 **Gotham Lock (Java / Spring Boot)**
 Aplicação full stack desenvolvida para as **Indústrias Wayne**, com foco em **controle de acesso** e **gestão de inventário interno**.  
 Implementa **autenticação e autorização** com **Spring Security**, **criptografia de senhas (BCrypt)** e perfis de usuário (`Admin`, `Gerente`, `Funcionário`).  
@@ -76,14 +84,6 @@ API REST desenvolvida para o **registro e gerenciamento de denúncias públicas*
 O sistema segue **boas práticas de backend**, com arquitetura em camadas e foco em organização, validação e clareza das regras de negócio.
 > 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs (request/response), mapper dedicado, validação com Bean Validation, documentação com Swagger/OpenAPI, tratamento global de exceções e persistência com PostgreSQL.  
 🔗 [Acesse o repositório](https://github.com/EduardoPec/sistema-denuncias-api)
-
----
-
-### 🌿 **Workshop Spring Boot + MongoDB**
-API RESTful conectada ao **MongoDB**, com integração entre usuários, posts e comentários.  
-Demonstra **Spring Data MongoDB**, **DTOs**, **filtros com query params** e **boas práticas de camadas**.  
-> 💬 Destaques: consultas dinâmicas com parâmetros `@RequestParam`, encoding de URLs e tratamento de exceções.  
-🔗 [Acesse o repositório](https://github.com/EduardoPec/workshop-springboot-mongodb)
 
 ---
 ---
