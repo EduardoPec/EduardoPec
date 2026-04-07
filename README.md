@@ -59,7 +59,7 @@
 API REST completa para gerenciamento de monitoria acadêmica, permitindo o controle de **IES, escolas, cursos, disciplinas, matrizes curriculares, professores, alunos e monitorias**.  
 Implementa **autenticação JWT**, **Spring Security** com perfis `ADMIN` e `PROFESSOR`, **soft delete**, **pré-requisitos entre disciplinas**, **relatórios finais** e **documentação interativa com Swagger/OpenAPI**.  
 > 💬 Destaques: arquitetura em camadas, regras de negócio complexas (apenas uma matriz ativa por curso, aluno não pode repetir monitoria no mesmo semestre), PostgreSQL, paginação em todas as listagens e tratamento global de exceções.  
-🔗 [Acesse o repositório](https://github.com/EduardoPec/monitoria-api)
+🔗 [Acesse o repositório](https://github.com/EduardoPec/sistema-controle-monitoria)
 
 ---
 
