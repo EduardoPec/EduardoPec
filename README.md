@@ -9,9 +9,8 @@
 ---
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoPec&theme=tokyonight&hide_border=false"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec&layout=donut&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoPec&theme=tokyonight&hide_border=false"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
@@ -56,7 +55,15 @@
 
 ## Projetos em Destaque
 
-### 🏥 **Clínica Médica API**
+### 🎓 **Sistema de Controle de Monitoria de Alunos (Java / Spring Boot)**
+API REST completa para gerenciamento de monitoria acadêmica, permitindo o controle de **IES, escolas, cursos, disciplinas, matrizes curriculares, professores, alunos e monitorias**.  
+Implementa **autenticação JWT**, **Spring Security** com perfis `ADMIN` e `PROFESSOR`, **soft delete**, **pré-requisitos entre disciplinas**, **relatórios finais** e **documentação interativa com Swagger/OpenAPI**.  
+> 💬 Destaques: arquitetura em camadas, regras de negócio complexas (apenas uma matriz ativa por curso, aluno não pode repetir monitoria no mesmo semestre), PostgreSQL, paginação em todas as listagens e tratamento global de exceções.  
+🔗 [Acesse o repositório](https://github.com/EduardoPec/monitoria-api)
+
+---
+
+### 🏥 **Clínica Médica API (Java / Spring Boot)**
 API REST completa para gestão de clínica médica com autenticação via **JWT**, controle de acesso e regras de negócio complexas para agendamento de consultas.  
 Demonstra **Spring Boot**, **Spring Security**, **JPA**, **DTOs**, **validações customizadas (Strategy Pattern)** e **arquitetura em camadas**.  
 > 💬 Destaques: autenticação stateless com JWT, validações avançadas de agendamento, tratamento global de exceções e testes com MockMvc.  
@@ -70,15 +77,6 @@ Implementa **autenticação e autorização** com **Spring Security**, **criptog
 > 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs, logs automáticos de acesso e frontend em dark mode inspirado no universo Batman.  
 🔗 [Acesse o repositório](https://github.com/EduardoPec/GothamLock)
 
----
-
-### 🚨 **Sistema de Denúncias Públicas (Java / Spring Boot)**
-API REST desenvolvida para o **registro e gerenciamento de denúncias públicas**, permitindo o acompanhamento por meio de um **protocolo único**, com separação entre acesso público e administrativo.  
-O sistema segue **boas práticas de backend**, com arquitetura em camadas e foco em organização, validação e clareza das regras de negócio.
-> 💬 Destaques: arquitetura em camadas (Controller → Service → Repository), DTOs (request/response), mapper dedicado, validação com Bean Validation, documentação com Swagger/OpenAPI, tratamento global de exceções e persistência com PostgreSQL.  
-🔗 [Acesse o repositório](https://github.com/EduardoPec/sistema-denuncias-api)
-
----
 ---
 
 <h2 align="center">🤝 Contatos </h2>
