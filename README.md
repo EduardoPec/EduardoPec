@@ -13,6 +13,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec&layout=compact&langs_count=8&theme=tokyonight"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPec&layout=donut&langs_count=8&theme=tokyonight"/>
 </div>
+
 ---
 
 ## Stack Principal
