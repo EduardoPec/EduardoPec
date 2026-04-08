@@ -85,13 +85,3 @@ Implementa **autenticação e autorização** com **Spring Security**, **criptog
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoPec)
 
 </div>
-
----
-
-<p align="center">
-  <i>Sempre evoluir a cada dia, um commit de cada vez.”</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EduardoPec/EduardoPec/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
