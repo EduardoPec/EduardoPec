@@ -1,10 +1,7 @@
-<h1 align="center">👨🏻‍💻 Eduardo Peçanha</h1>
-<h3 align="center"> Desenvolvedor Backend | Full-Stack em formação</h3>
-
-<p align="center">
-  <i> Transformando ideias em soluções reais</i><br>
-  <b> Salvador - BA | Engenharia de Software (UCSAL)</b>
-</p>
+<div align="center">
+  <h1>👋 Eduardo Peçanha</h1>
+  <h3><b>Software Engineer | Backend Developer | Full-Stack in Progress...</b></h3>
+</div>
 
 ---
 
@@ -57,7 +54,7 @@
 ### 🎓 **Sistema de Controle de Monitoria de Alunos (Java / Spring Boot)**
 API REST completa para gerenciamento de monitoria acadêmica, permitindo o controle de **IES, escolas, cursos, disciplinas, matrizes curriculares, professores, alunos e monitorias**.  
 Implementa **autenticação JWT**, **Spring Security** com perfis `ADMIN` e `PROFESSOR`, **soft delete**, **pré-requisitos entre disciplinas**, **relatórios finais** e **documentação interativa com Swagger/OpenAPI**.  
-> 💬 Destaques: arquitetura em camadas, regras de negócio complexas (apenas uma matriz ativa por curso, aluno não pode repetir monitoria no mesmo semestre), PostgreSQL, paginação em todas as listagens e tratamento global de exceções.  
+> 💬 Destaques: arquitetura em camadas, regras de negócio complexas, PostgreSQL, paginação em todas as listagens e tratamento global de exceções.  
 🔗 [Acesse o repositório](https://github.com/EduardoPec/sistema-controle-monitoria)
 
 ---
