@@ -9,8 +9,7 @@
 ---
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoPec&theme=tokyonight&hide_border=false"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EduardoPec&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="500px" alt="commit gif looping" />
 </div>
 
 ---
