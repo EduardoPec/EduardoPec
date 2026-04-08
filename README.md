@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="500px" alt="commit gif looping" />
+  <img src="https://streak-stats.demolab.com?user=EduardoPec&theme=tokyonight"/>
 </div>
 
 ---
